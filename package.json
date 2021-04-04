@@ -1,0 +1,8 @@
+{
+    "name": "@reflect.bridged.xyz/uiutils",
+    "version": "0.0.1",
+    "scripts": {},
+    "devDependencies": {
+        "typescript": "^4.0.5"
+    }
+}
