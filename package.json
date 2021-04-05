@@ -1,6 +1,6 @@
 {
     "name": "@reflect-ui/uiutils",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "scripts": {},
     "devDependencies": {
         "typescript": "^4.0.5"
