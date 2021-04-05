@@ -1,8 +1,12 @@
 {
     "name": "@reflect-ui/uiutils",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "scripts": {},
     "devDependencies": {
         "typescript": "^4.0.5"
-    }
+    },
+    "files": [
+        "lib/**/*",
+        "README.md"
+    ]
 }
