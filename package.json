@@ -1,9 +1,7 @@
 {
-    "name": "@reflect.bridged.xyz/uiutils",
-    "version": "0.0.2",
-    "scripts": {
-        "prepublish": "tsc"
-    },
+    "name": "@reflect-ui/uiutils",
+    "version": "0.0.3",
+    "scripts": {},
     "devDependencies": {
         "typescript": "^4.0.5"
     }

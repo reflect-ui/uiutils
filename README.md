@@ -7,8 +7,10 @@ Zero dependency, mostly use with numbers, and basic types.
 ## Installation
 
 ```
-yarn add @reflect.bridged.xyz/uiutils
+yarn add @reflect-ui/uiutils
 ```
+
+## Parent project - [reflect-ui](https://reflect-ui.com)
 
 ## Disclamer
 
