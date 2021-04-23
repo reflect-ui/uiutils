@@ -1,3 +1,4 @@
+export * as array from "./array";
 export * from "./pixels";
 export * from "./colors";
 export * from "./misc";
