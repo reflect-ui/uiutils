@@ -1,13 +1,19 @@
 {
     "name": "@reflect-ui/uiutils",
-    "version": "0.0.8",
-    "scripts": {},
+    "version": "0.1.1",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "prepack": "tsc"
+    },
     "devDependencies": {
         "typescript": "^4.0.5"
     },
     "files": [
-        "index.ts",
-        "lib/**/*",
+        "dist/index.js",
+        "dist/index.d.ts",
+        "dist/lib/**/*",
+        "LICENSE",
         "README.md"
     ]
 }
