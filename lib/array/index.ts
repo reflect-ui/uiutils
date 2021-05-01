@@ -1,4 +1,5 @@
 export * from "./is-all-equal";
+export * from "./nearest-value";
 
 // region filters
 import { onlyUnique } from "./filter-only-unique";
